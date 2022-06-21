@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace MinimalWebApi.Model
+namespace MinimalWebApi.Models
 {
     public class TodoDb: DbContext
     {

@@ -1,4 +1,4 @@
-﻿namespace MinimalWebApi.Model
+﻿namespace MinimalWebApi.Models
 {
     public class Todo
     {
